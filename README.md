@@ -55,9 +55,7 @@ In the fast-paced world of AI and CS, leaders don't always have time to read 50-
 Join our community of over 500,000+ learners and professionals:
 
   * **Official Website:** [accredian.com](https://accredian.com)
-  * **Research Blog:** [Accredian Insights](https://www.google.com/search?q=https://accredian.com/blog/)
-  * **LinkedIn:** [Connect with us](https://www.google.com/search?q=https://www.linkedin.com/school/accredian/)
-
+ 
 -----
 
 *Created and maintained by the Accredian Research Team. © 2026.*
